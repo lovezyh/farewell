@@ -1,37 +1,33 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/lovezyh/farewell/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lovezyh/farewell/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+##你说我是不是配不上她
+我什么都没有 
+我不了解她 
+她有多半的事情会告诉她的朋友而且是男的
+你说
+我什么都没有
+在七夕那天
+我什么都没给她  
+我什么都没有
+那天有一个向她表白
+送了她东西
+我感觉
+她挺好的
+没有我的世界
+对于她来说我感觉
+她会过的更好
+我不会再去找她的
+我配不上她
+可能会玩不够优秀
+可能是我无能
+可能我是一个废物
+爱情是一个很神奇的东西
+但是不适合我
+我感觉
+我只适合一个人一直走下去
+和我的朋友
+我希望我以后可以和我最亲密的朋友
+在一起  
+我想过那种有烦心事
+可以有一个人陪着你
+陪你喝酒
+陪你唱歌
+陪你吐槽这个世界
